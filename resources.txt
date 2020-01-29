@@ -1,0 +1,2 @@
+# Resources
+https://towardsdatascience.com/traditional-vs-deep-learning-algorithms-in-retail-industry-i-b7b7f86793d4
