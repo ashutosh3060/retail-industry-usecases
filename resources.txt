@@ -1,2 +1,3 @@
 # Resources
-
+https://towardsdatascience.com/traditional-vs-deep-learning-algorithms-in-retail-industry-i-b7b7f86793d4
+https://www.datadriveninvestor.com/2019/07/11/machine-learning-applications-in-retail-6-real-world-examples-from-market-leaders/
